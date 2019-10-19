@@ -1,7 +1,7 @@
-# Tuning Hyperparameter for Tree-Models by Bayesian Optimization
+# Tuning Hyperparameter for Tree Models by Bayesian Optimization
 
 
-![](https://github.com/fmfn/BayesianOptimization/blob/master/examples/func.png?raw=true)
+![](https://miro.medium.com/max/2588/1*6wykUbMfd2e1TSPr0gbagA.png)
 
 <br><br>
 
