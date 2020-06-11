@@ -3,7 +3,6 @@
 
 ![](https://miro.medium.com/max/2588/1*6wykUbMfd2e1TSPr0gbagA.png)
 
-<br><br>
 
 ### The Goal of the Competition:
 To identify which customers will make a specific transaction in the future and maximize the evaluation function (AUC)
