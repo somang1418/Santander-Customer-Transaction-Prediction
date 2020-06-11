@@ -11,3 +11,5 @@ To identify which customers will make a specific transaction in the future and m
 Bayesian Optimization is a probabilistic model based approach for finding the minimum of any function that returns a real-value metric. In the ipython notebook, I will utilize Bayesian Optimization function in order to find the optimal LGBM parameters to find the maximum AUC. 
 
 My kaggle notebook: https://www.kaggle.com/somang1418/tuning-hyperparameters-under-10-minutes-lgbm
+
+more details about tuning: https://www.kaggle.com/somang1418/time-to-tune-your-model-shortandsweet
